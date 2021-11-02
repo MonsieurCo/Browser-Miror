@@ -1,4 +1,8 @@
 import socket
+'''
+To run this code I put a proxy on my computer at 127.0.0.1:2003 
+
+'''
 
 
 def server():
@@ -7,7 +11,6 @@ def server():
     MAXBYTES = 4096
     print(HOST, PORT)
     server_socket = socket.socket()
-
     server_socket.bind((HOST, PORT))
     server_socket.listen()
     while True:
@@ -18,7 +21,6 @@ def server():
             break
         print("ECHO RESQUEST: \n",data,sep="")
     conn.close()  # close the connection
-
 
 if __name__ == '__main__':
     server()
