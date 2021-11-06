@@ -1,0 +1,547 @@
+"E:\python 3.6.3\python.exe" E:/Documents/GitHub/Browser-Miror/miror.py
+127.0.0.1 2003
+Connection from: ('127.0.0.1', 65125)
+ECHO RESQUEST:
+CONNECT www.i3s.unice.fr:443 HTTP/1.1
+Host: www.i3s.unice.fr:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+
+
+Connection from: ('127.0.0.1', 65133)
+ECHO RESQUEST:
+CONNECT safebrowsing.googleapis.com:443 HTTP/1.1
+Host: safebrowsing.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+
+
+Connection from: ('127.0.0.1', 65134)
+ECHO RESQUEST:
+CONNECT www.i3s.unice.fr:443 HTTP/1.1
+Host: www.i3s.unice.fr:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+
+
+Connection from: ('127.0.0.1', 65135)
+ECHO RESQUEST:
+CONNECT safebrowsing.googleapis.com:443 HTTP/1.1
+Host: safebrowsing.googleapis.com:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+
+
+Connection from: ('127.0.0.1', 65136)
+ECHO RESQUEST:
+CONNECT www.i3s.unice.fr:443 HTTP/1.1
+Host: www.i3s.unice.fr:443
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+
+
+Connection from: ('127.0.0.1', 65149)
+ECHO RESQUEST:
+CONNECT checkappexec.microsoft.com:443 HTTP/1.0
+Host: checkappexec.microsoft.com:443
+Content-Length: 0
+Proxy-Connection: Keep-Alive
+Pragma: no-cache
+
+
+Connection from: ('127.0.0.1', 65312)
+ECHO RESQUEST:
+CONNECT duckduckgo.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: duckduckgo.com:443
+
+
+Connection from: ('127.0.0.1', 65313)
+ECHO RESQUEST:
+CONNECT duckduckgo.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: duckduckgo.com:443
+
+
+Connection from: ('127.0.0.1', 65314)
+ECHO RESQUEST:
+CONNECT duckduckgo.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: duckduckgo.com:443
+
+
+Connection from: ('127.0.0.1', 65322)
+ECHO RESQUEST:
+GET http://detectportal.firefox.com/canonical.html HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+
+Connection from: ('127.0.0.1', 65323)
+ECHO RESQUEST:
+CONNECT duckduckgo.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: duckduckgo.com:443
+
+
+Connection from: ('127.0.0.1', 65324)
+ECHO RESQUEST:
+GET http://detectportal.firefox.com/canonical.html HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+
+Connection from: ('127.0.0.1', 65325)
+ECHO RESQUEST:
+CONNECT duckduckgo.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: duckduckgo.com:443
+
+
+Connection from: ('127.0.0.1', 65326)
+ECHO RESQUEST:
+GET http://detectportal.firefox.com/canonical.html HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+
+Connection from: ('127.0.0.1', 65327)
+ECHO RESQUEST:
+CONNECT duckduckgo.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: duckduckgo.com:443
+
+
+Connection from: ('127.0.0.1', 65328)
+ECHO RESQUEST:
+GET http://detectportal.firefox.com/canonical.html HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+
+Connection from: ('127.0.0.1', 65329)
+ECHO RESQUEST:
+CONNECT duckduckgo.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: duckduckgo.com:443
+
+
+Connection from: ('127.0.0.1', 65330)
+ECHO RESQUEST:
+GET http://detectportal.firefox.com/canonical.html HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+
+Connection from: ('127.0.0.1', 65331)
+ECHO RESQUEST:
+CONNECT duckduckgo.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: duckduckgo.com:443
+
+
+Connection from: ('127.0.0.1', 65332)
+ECHO RESQUEST:
+GET http://detectportal.firefox.com/canonical.html HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+
+Connection from: ('127.0.0.1', 65333)
+ECHO RESQUEST:
+CONNECT duckduckgo.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: duckduckgo.com:443
+
+
+Connection from: ('127.0.0.1', 65334)
+ECHO RESQUEST:
+GET http://detectportal.firefox.com/canonical.html HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+
+Connection from: ('127.0.0.1', 65335)
+ECHO RESQUEST:
+CONNECT duckduckgo.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: duckduckgo.com:443
+
+
+Connection from: ('127.0.0.1', 65336)
+ECHO RESQUEST:
+GET http://detectportal.firefox.com/canonical.html HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+
+Connection from: ('127.0.0.1', 65337)
+ECHO RESQUEST:
+CONNECT duckduckgo.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: duckduckgo.com:443
+
+
+Connection from: ('127.0.0.1', 65338)
+ECHO RESQUEST:
+GET http://detectportal.firefox.com/canonical.html HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+
+Connection from: ('127.0.0.1', 65339)
+ECHO RESQUEST:
+CONNECT duckduckgo.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: duckduckgo.com:443
+
+
+Connection from: ('127.0.0.1', 65340)
+ECHO RESQUEST:
+GET http://detectportal.firefox.com/canonical.html HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+
+Connection from: ('127.0.0.1', 65344)
+ECHO RESQUEST:
+CONNECT duckduckgo.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: duckduckgo.com:443
+
+
+Connection from: ('127.0.0.1', 65345)
+ECHO RESQUEST:
+GET http://detectportal.firefox.com/canonical.html HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+
+Connection from: ('127.0.0.1', 65346)
+ECHO RESQUEST:
+CONNECT duckduckgo.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: duckduckgo.com:443
+
+
+Connection from: ('127.0.0.1', 65347)
+ECHO RESQUEST:
+GET http://detectportal.firefox.com/canonical.html HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+
+Connection from: ('127.0.0.1', 65348)
+ECHO RESQUEST:
+CONNECT duckduckgo.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: duckduckgo.com:443
+
+
+Connection from: ('127.0.0.1', 65349)
+ECHO RESQUEST:
+GET http://detectportal.firefox.com/canonical.html HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+
+Connection from: ('127.0.0.1', 65350)
+ECHO RESQUEST:
+CONNECT duckduckgo.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: duckduckgo.com:443
+
+
+Connection from: ('127.0.0.1', 65351)
+ECHO RESQUEST:
+GET http://detectportal.firefox.com/canonical.html HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+
+Connection from: ('127.0.0.1', 65352)
+ECHO RESQUEST:
+CONNECT duckduckgo.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: duckduckgo.com:443
+
+
+Connection from: ('127.0.0.1', 65353)
+ECHO RESQUEST:
+GET http://detectportal.firefox.com/canonical.html HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+
+Connection from: ('127.0.0.1', 65354)
+ECHO RESQUEST:
+CONNECT duckduckgo.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: duckduckgo.com:443
+
+
+Connection from: ('127.0.0.1', 65355)
+ECHO RESQUEST:
+GET http://detectportal.firefox.com/canonical.html HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+
+Connection from: ('127.0.0.1', 65356)
+ECHO RESQUEST:
+CONNECT duckduckgo.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: duckduckgo.com:443
+
+
+Connection from: ('127.0.0.1', 65357)
+ECHO RESQUEST:
+GET http://detectportal.firefox.com/canonical.html HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+
+Connection from: ('127.0.0.1', 65358)
+ECHO RESQUEST:
+CONNECT duckduckgo.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: duckduckgo.com:443
+
+
+Connection from: ('127.0.0.1', 65359)
+ECHO RESQUEST:
+GET http://detectportal.firefox.com/canonical.html HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+
+Connection from: ('127.0.0.1', 65360)
+ECHO RESQUEST:
+CONNECT duckduckgo.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: duckduckgo.com:443
+
+
+Connection from: ('127.0.0.1', 65361)
+ECHO RESQUEST:
+GET http://detectportal.firefox.com/canonical.html HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+
+Connection from: ('127.0.0.1', 65362)
+ECHO RESQUEST:
+CONNECT duckduckgo.com:443 HTTP/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Proxy-Connection: keep-alive
+Connection: keep-alive
+Host: duckduckgo.com:443
+
+
+Connection from: ('127.0.0.1', 65363)
+ECHO RESQUEST:
+GET http://detectportal.firefox.com/canonical.html HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+
+Connection from: ('127.0.0.1', 65367)
+ECHO RESQUEST:
+CONNECT v10.events.data.microsoft.com:443 HTTP/1.1
+Host: v10.events.data.microsoft.com:443
+
+
+Connection from: ('127.0.0.1', 65368)
+ECHO RESQUEST:
+GET http://detectportal.firefox.com/canonical.html HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+
+Connection from: ('127.0.0.1', 65370)
+ECHO RESQUEST:
+CONNECT v10.events.data.microsoft.com:443 HTTP/1.1
+Host: v10.events.data.microsoft.com:443
+
+
+Connection from: ('127.0.0.1', 65371)
+ECHO RESQUEST:
+GET http://detectportal.firefox.com/canonical.html HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Accept: */*
+Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+
