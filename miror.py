@@ -6,6 +6,10 @@ To run this code I put a proxy on my computer at 127.0.0.1:2003
 '''
 
 
+#just send back to the browser what he gaves you
+
+
+
 def server():
     HOST = '127.0.0.1'
     PORT = 2003  # random port above 1024
